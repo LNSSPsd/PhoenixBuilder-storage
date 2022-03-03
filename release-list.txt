@@ -1,0 +1,19 @@
+total 203M
+drwxr-xr-x 2 runner docker 4.0K Mar  3 13:35 gui
+-rw-r--r-- 1 runner docker  844 Mar  3 13:35 hashes.json
+-rwxr-xr-x 1 runner docker  17M Mar  3 13:19 phoenixbuilder
+-rwxr-xr-x 1 runner docker  16M Mar  3 13:24 phoenixbuilder-aarch64
+-rwxr-xr-x 1 runner docker  19M Mar  3 13:25 phoenixbuilder-android-executable-arm64
+-rwxr-xr-x 1 runner docker  16M Mar  3 13:25 phoenixbuilder-android-executable-armv7
+-rwxr-xr-x 1 runner docker  16M Mar  3 13:23 phoenixbuilder-android-executable-x86
+-rwxr-xr-x 1 runner docker  20M Mar  3 13:23 phoenixbuilder-android-executable-x86_64
+-rwxr-xr-x 1 runner docker  16M Mar  3 13:25 phoenixbuilder-ios-executable
+-rw-r--r-- 1 runner docker  18M Mar  3 13:20 phoenixbuilder-ios-static.a
+-rw-r--r-- 1 runner docker 2.5K Mar  3 13:20 phoenixbuilder-ios-static.h
+-rwxr-xr-x 1 runner docker  32M Mar  3 13:21 phoenixbuilder-macos
+-rwxr-xr-x 1 runner docker  12M Mar  3 13:24 phoenixbuilder-windows-executable-x86.exe
+-rwxr-xr-x 1 runner docker  14M Mar  3 13:24 phoenixbuilder-windows-executable-x86_64.exe
+-rw-r--r-- 1 runner docker 4.1M Mar  3 13:25 pro.fastbuilder.phoenix-android_1.5.1_aarch64.deb
+-rw-r--r-- 1 runner docker 4.2M Mar  3 13:25 pro.fastbuilder.phoenix-android_1.5.1_arm.deb
+-rw-r--r-- 1 runner docker 3.9M Mar  3 13:25 pro.fastbuilder.phoenix_1.5.1_iphoneos-arm.deb
+-rw-r--r-- 1 runner docker    6 Mar  3 13:25 version

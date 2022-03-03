@@ -1,0 +1,12 @@
+total 409M
+-rwxr-xr-x 1 runner docker 36M Mar  3 13:26 phoenixbuilder
+-rw-r--r-- 1 runner docker 37M Mar  3 13:30 phoenixbuilder-android-app.apk
+-rw-r--r-- 1 runner docker 36M Mar  3 13:30 phoenixbuilder-android-arm64-lib.so
+-rw-r--r-- 1 runner docker 18M Mar  3 13:29 phoenixbuilder-ios-app.ipa
+-rwxr-xr-x 1 runner docker 36M Mar  3 13:27 phoenixbuilder-ios-executable
+-rwxr-xr-x 1 runner docker 73M Mar  3 13:29 phoenixbuilder-macos
+-rw-r--r-- 1 runner docker 36M Mar  3 13:29 phoenixbuilder-macos-app.app.zip
+-rwxr-xr-x 1 runner docker 36M Mar  3 13:29 phoenixbuilder-macos-arm64
+-rwxr-xr-x 1 runner docker 37M Mar  3 13:28 phoenixbuilder-macos-x86_64
+-rwxr-xr-x 1 runner docker 34M Mar  3 13:32 phoenixbuilder-windows-executable-x86.exe
+-rwxr-xr-x 1 runner docker 35M Mar  3 13:35 phoenixbuilder-windows-executable-x86_64.exe
