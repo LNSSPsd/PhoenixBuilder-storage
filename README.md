@@ -1,7 +1,6 @@
 # PhoenixBuilder-storage
 This repository is used to store auto-built binaries for [PhoenixBuilder](https://github.com/LNSSPsd/PhoenixBuilder).
 ## Index
-[gui/](gui/)  
 [hashes.json](hashes.json)  
 [phoenixbuilder](phoenixbuilder)  
 [phoenixbuilder-aarch64](phoenixbuilder-aarch64)  
@@ -11,16 +10,15 @@ This repository is used to store auto-built binaries for [PhoenixBuilder](https:
 [phoenixbuilder-android-executable-x86_64](phoenixbuilder-android-executable-x86_64)  
 [phoenixbuilder-ios-executable](phoenixbuilder-ios-executable)  
 [phoenixbuilder-ios-static.a](phoenixbuilder-ios-static.a)  
-[phoenixbuilder-ios-static.h](phoenixbuilder-ios-static.h)  
 [phoenixbuilder-macos](phoenixbuilder-macos)  
 [phoenixbuilder-v8](phoenixbuilder-v8)  
 [phoenixbuilder-v8-android-executable-arm64](phoenixbuilder-v8-android-executable-arm64)  
 [phoenixbuilder-v8-ios-executable](phoenixbuilder-v8-ios-executable)  
 [phoenixbuilder-windows-executable-x86.exe](phoenixbuilder-windows-executable-x86.exe)  
 [phoenixbuilder-windows-executable-x86_64.exe](phoenixbuilder-windows-executable-x86_64.exe)  
-[pro.fastbuilder.phoenix-android_2.1.2_aarch64.deb](pro.fastbuilder.phoenix-android_2.1.2_aarch64.deb)  
-[pro.fastbuilder.phoenix-android_2.1.2_arm.deb](pro.fastbuilder.phoenix-android_2.1.2_arm.deb)  
-[pro.fastbuilder.phoenix_2.1.2_iphoneos-arm.deb](pro.fastbuilder.phoenix_2.1.2_iphoneos-arm.deb)  
+[pro.fastbuilder.phoenix-android_2.5.0_aarch64.deb](pro.fastbuilder.phoenix-android_2.5.0_aarch64.deb)  
+[pro.fastbuilder.phoenix-android_2.5.0_arm.deb](pro.fastbuilder.phoenix-android_2.5.0_arm.deb)  
+[pro.fastbuilder.phoenix_2.5.0_iphoneos-arm.deb](pro.fastbuilder.phoenix_2.5.0_iphoneos-arm.deb)  
 [release-list.txt](release-list.txt)  
 [version](version)  
 [version.txt](version.txt)  
