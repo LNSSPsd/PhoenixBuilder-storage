@@ -1,7 +1,9 @@
 # PhoenixBuilder-storage
 This repository is used to store auto-built binaries for [PhoenixBuilder](https://github.com/LNSSPsd/PhoenixBuilder).
 ## Index
+[gui/](gui/)  
 [hashes.json](hashes.json)  
+[libexternal_functions_provider.dylib](libexternal_functions_provider.dylib)  
 [phoenixbuilder](phoenixbuilder)  
 [phoenixbuilder-aarch64](phoenixbuilder-aarch64)  
 [phoenixbuilder-android-executable-arm64](phoenixbuilder-android-executable-arm64)  
