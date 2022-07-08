@@ -9,8 +9,6 @@ This repository is used to store auto-built binaries for [PhoenixBuilder](https:
 [phoenixbuilder-ios-executable](phoenixbuilder-ios-executable)  
 [phoenixbuilder-macos](phoenixbuilder-macos)  
 [phoenixbuilder-macos-app.app.zip](phoenixbuilder-macos-app.app.zip)  
-[phoenixbuilder-macos-arm64](phoenixbuilder-macos-arm64)  
-[phoenixbuilder-macos-x86_64](phoenixbuilder-macos-x86_64)  
 [phoenixbuilder-windows-executable-x86.exe](phoenixbuilder-windows-executable-x86.exe)  
 [phoenixbuilder-windows-executable-x86_64.exe](phoenixbuilder-windows-executable-x86_64.exe)  
 [release-list.txt](release-list.txt)  
